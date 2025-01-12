@@ -1,0 +1,24 @@
+2025-01-12 08:24:11,890 root INFO We are iterating through our list and local variable is 'i'
+2025-01-12 08:24:11,890 root INFO I got 'int' value inside list
+2025-01-12 08:24:11,890 root INFO We are iterating through our list and local variable is 'i'
+2025-01-12 08:24:11,890 root INFO I got 'int' value inside list
+2025-01-12 08:24:11,890 root INFO We are iterating through our list and local variable is 'i'
+2025-01-12 08:24:11,890 root INFO I got 'int' value inside list
+2025-01-12 08:24:11,890 root INFO We are iterating through our list and local variable is 'i'
+2025-01-12 08:24:11,890 root INFO I got 'int' value inside list
+2025-01-12 08:24:11,890 root INFO We are iterating through our list and local variable is 'i'
+2025-01-12 08:24:11,890 root INFO I got 'int' value inside list
+2025-01-12 08:24:11,891 root INFO We are iterating through our list and local variable is 'i'
+2025-01-12 08:24:11,891 root INFO I got 'int' value inside list
+2025-01-12 08:24:11,891 root INFO We are iterating through our list and local variable is 'i'
+2025-01-12 08:24:11,891 root INFO I am inside 'if' and trying to check list type
+2025-01-12 08:24:11,891 root INFO I am in another for loop for list inside list element
+2025-01-12 08:24:11,891 root INFO I got 'int' value inside list in list
+2025-01-12 08:24:11,891 root INFO I am in another for loop for list inside list element
+2025-01-12 08:24:11,891 root INFO I got 'int' value inside list in list
+2025-01-12 08:24:11,891 root INFO I am in another for loop for list inside list element
+2025-01-12 08:24:11,891 root INFO I got 'int' value inside list in list
+2025-01-12 08:24:11,891 root INFO We are iterating through our list and local variable is 'i'
+2025-01-12 08:24:11,891 root INFO I got 'str' value inside list in list
+2025-01-12 08:24:11,891 root INFO We are iterating through our list and local variable is 'i'
+2025-01-12 08:24:11,891 root INFO I got 'str' value inside list in list
