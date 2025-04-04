@@ -1,4 +1,4 @@
-# Data Science Masters 2.0 by PWskills
+# Data Science Masters 2.0 (IMPACT) by PWskills
 
 Welcome to the **Data Science Masters 2.0** course repository by PWskills! This repository is designed to be a comprehensive resource for anyone enrolled in the Data Science Masters 2.0 program. Here, you'll find everything you need to master the principles and practices of data science, from foundational concepts to advanced techniques.
 
